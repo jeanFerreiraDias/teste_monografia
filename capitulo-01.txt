@@ -4,3 +4,5 @@ Este TCC abordará o uso do git hub e como o uso dele aparenta ser magia negra
 
 os comandos git add apenas reune os arquivos que futuramente irão ser
  adicionados ao git
+
+esse é o sub-capítulo 1.1?
