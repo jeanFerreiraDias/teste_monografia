@@ -2,3 +2,6 @@
 Este é o segundo capitulo de nossa incrível monografia
 
 O git hub é fácil, depois de 2 meses tentando entender
+
+
+Agora estamos adicionando mais texto nesse capitulo para commitarmos novamente
